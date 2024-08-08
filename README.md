@@ -26,8 +26,3 @@ You dont need to remember the allocation......the Job Allocation app would do th
 ## Platform
         -> Android Studio
         -> With Kotlin Support
-
-
-website - https://projectworlds.in/
-
-video  - https://youtu.be/a7BBuewsClU
